@@ -1,6 +1,10 @@
 # COMP1406-Java
 Java Code from my assignments and tutorials
 
+# Assignment 4
+A Java assignment that takes the electronic store classes from assignment 2 and implements them using Abstract data structures and File
+I/O.
+
 # Assignment 3
 A JavaFX program that takes the electronic store classes from Assignment 2 and implements them using a GUI. <br />
 • Lets users buy items from the store using buttons and ListViews. <br />
@@ -12,6 +16,12 @@ A Java assignment that applies the OOP principles of encapsulation and inheritan
 
 # Assignment 1
 A simple Java assignment that simulates an electronic store. The user is prompted to search for an item that is currently on display in the store, the program will then let the user know if the item in the search result is available. Uses classes to store each of the different objects within the store.
+
+# Tutorial 11
+A program containing multiple examples of recursion and ADT's. <br />
+• To write recursive methods for self-referencing data structures (Linked lists, Binary trees). <br />
+• Recursive maze traversing algorithm.
+
 
 # Tutorial 8/9
 A program that simulates an online music center where users can log in and download songs from other people. <br />
