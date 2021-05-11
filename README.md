@@ -1,5 +1,5 @@
 # COMP1406-Java
-Java Code from my assignments and tutorials
+Java Code from my assignments and tutorials.
 
 # Assignment 4
 A Java assignment that takes the electronic store classes from assignment 2 and implements them using Abstract data structures and File
